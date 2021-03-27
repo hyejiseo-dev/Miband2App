@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "935224453811",
+    "firebase_url": "https://fitness-band-2bbf2.firebaseio.com",
+    "project_id": "fitness-band-2bbf2",
+    "storage_bucket": "fitness-band-2bbf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935224453811:android:cb91d3d2b21bc003",
+        "android_client_info": {
+          "package_name": "com.healthcarelab.wearable.mibandapp2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935224453811-altuq9lml5bdrnklr1op1vgnvua683be.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.healthcarelab.wearable.mibandapp2",
+            "certificate_hash": "0fe7dbdc7dc87f0e2240dc58440be6f59768c2d8"
+          }
+        },
+        {
+          "client_id": "935224453811-uftsnthomcn846puveg2m9q0orn7m4it.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7OqnhvOaNRrBSSHdgww0QW13z0fz89yM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935224453811-uftsnthomcn846puveg2m9q0orn7m4it.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935224453811:android:fbb2b11b9c5095a9",
+        "android_client_info": {
+          "package_name": "com.smardi.sheis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935224453811-uftsnthomcn846puveg2m9q0orn7m4it.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7OqnhvOaNRrBSSHdgww0QW13z0fz89yM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
